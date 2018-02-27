@@ -1,0 +1,41 @@
+body {
+  background: white;
+  font-family: 'Roboto', sans-serif;
+}
+.container {
+  max-width: 1280px;
+  margin: auto;
+}
+.logotyp {
+  color: white;
+  align-items: flex-start;
+  padding-right: 850px;
+}
+.header {
+  background: black;
+  height: 100px;
+}
+.square {
+  width: 60px;
+  height: 60px;
+  background: white;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+}
+.navigation {
+  display: flex;
+  list-style: none;
+}
+.heading {
+  color: black;
+  font-size: 80px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+div.image {
+   content:url(https://blog.spoongraphics.co.uk/wp-content/uploads/2016/sketch-effect/sketch-effect.jpg)
+}​
